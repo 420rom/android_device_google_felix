@@ -14,10 +14,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
 
-# HBM
-PRODUCT_PACKAGES += \
-    HbmSVManagerOverlayFelix
-
 # Build necessary packages for vendor
 
 # Audio
